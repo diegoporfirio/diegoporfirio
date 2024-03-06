@@ -11,8 +11,8 @@ Olá, eu sou o Diego, moro em Curitiba - PR, sou formado em bacharelado em siste
 * [Condonice (gestão de condomínio) - Android, IOS e Web](https://play.google.com/store/apps/details?id=br.com.condonice&hl=pt_BR&gl=US)
 * [Barbearia Guarani (agendamentos para barbearia) - Android e IOS](https://play.google.com/store/apps/details?id=br.com.barberapp.guarani&hl=es_SV)
 * [Leve Pra Vida (saúde e qualidade de vida) - Android e Wordpress](https://play.google.com/store/apps/details?id=br.com.levepravida)
-* [Cotação Ibovespa - Plugin do Chrome]((https://chromewebstore.google.com/detail/cota%C3%A7%C3%A3o-ibovespa/jgjhgngkklajpchggkciipmhlgmhfnij?hl=pt-BR)](https://chromewebstore.google.com/detail/cota%C3%A7%C3%A3o-ibovespa/jgjhgngkklajpchggkciipmhlgmhfnij?hl=pt-BR))
-
+* [Cotação Ibovespa - Plugin do Chrome](https://chromewebstore.google.com/detail/cota%C3%A7%C3%A3o-ibovespa/jgjhgngkklajpchggkciipmhlgmhfnij?hl=pt-BR)
+  
 ## ⚡ Tecnologias
 - Desenvolvedor Front-end: **HTML, Javascript, CSS, Bootstrap, Primefaces, IONIC**
 - Desenvolvedor Backend: **Java, Flutter, Swift, Android**
