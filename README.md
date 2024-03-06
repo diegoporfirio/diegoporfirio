@@ -12,6 +12,7 @@ Olá, eu sou o Diego, moro em Curitiba - PR, sou formado em bacharelado em siste
 * [Barbearia Guarani (agendamentos para barbearia) - Android e IOS](https://play.google.com/store/apps/details?id=br.com.barberapp.guarani&hl=es_SV)
 * [Leve Pra Vida (saúde e qualidade de vida) - Android e Wordpress](https://play.google.com/store/apps/details?id=br.com.levepravida)
 * [Cotação Ibovespa - Plugin do Chrome](https://chromewebstore.google.com/detail/cota%C3%A7%C3%A3o-ibovespa/jgjhgngkklajpchggkciipmhlgmhfnij?hl=pt-BR)
+* [Bitcoin Mayer Multiple - Plugin do Chrome](https://chromewebstore.google.com/detail/bitcoin-mayer-multiple/mglcapocffmnnjmpfodchhhfjjkhmjck?hl=pt-BR)
   
 ## ⚡ Tecnologias
 - Desenvolvedor Front-end: **HTML, Javascript, CSS, Bootstrap, Primefaces, IONIC**
