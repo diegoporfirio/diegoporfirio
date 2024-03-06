@@ -16,8 +16,8 @@ Olá, eu sou o Diego, moro em Curitiba - PR, sou formado em bacharelado em siste
 * [WearInvest - Aplicativo para Smartwatch Wear OS](https://wearinvest.com.br)
   
 ## ⚡ Tecnologias
-- Desenvolvedor Front-end: **HTML, Javascript, CSS, Bootstrap, Primefaces, IONIC**
-- Desenvolvedor Backend: **Java, Flutter, Swift, Android**
+- Desenvolvedor Front-end: **HTML, Javascript, CSS, Bootstrap, Primefaces, IONIC, Angular**
+- Desenvolvedor Backend: **Java, Flutter, Swift, Android, Wear OS**
 - Spring boot, Spring MVC, Maven, Hibernate, Jpa, RESTful Web Service, Jasper Reports, JWT, GIT, SVN, TDD, Trello
 - Banco de dados: **MySQL, SQL Server**
 - Testes: **JUnit**
