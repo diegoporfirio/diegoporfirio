@@ -8,10 +8,11 @@
 Olá, eu sou o Diego, moro em Curitiba - PR, sou formado em bacharelado em sistemas de informação pela PUC/PR. Eu amo desenvolver, fazer análise de sistemas e sempre estou aberto para aprender novas tecnologias.
 
 ## 💻 Projetos
-* [Condonice (gestão de condomínio) - Android, IOS e Web](https://play.google.com/store/apps/details?id=br.com.condonice&hl=pt_BR&gl=US)
+
 * [Aplicativos para Barbearias, Studios, Lava car - Android](https://play.google.com/store/apps/developer?id=Diego+Porfirio&hl=es_SV)
-* [Aplicativos para Barbearias, Studios, Lava car - IOS](https://apps.apple.com/br/developer/diego-alves-porfirio/id1482859070)
+* [Aplicativos para Barbearias, Studios, Lava car - IOS](https://apps.apple.com/br/developer/diego-alves-porfirio/id1482859070?see-all=i-phone-apps)
 * [Leve Pra Vida (saúde e qualidade de vida) - Android e Wordpress](https://play.google.com/store/apps/details?id=br.com.levepravida)
+* [Condonice (gestão de condomínio) - Android, IOS e Web](https://play.google.com/store/apps/details?id=br.com.condonice&hl=pt_BR&gl=US)
 * [Cotação Ibovespa - Plugin do Chrome](https://chromewebstore.google.com/detail/cota%C3%A7%C3%A3o-ibovespa/jgjhgngkklajpchggkciipmhlgmhfnij?hl=pt-BR)
 * [Bitcoin Mayer Multiple - Plugin do Chrome](https://chromewebstore.google.com/detail/bitcoin-mayer-multiple/mglcapocffmnnjmpfodchhhfjjkhmjck?hl=pt-BR)
 * [WearInvest - Aplicativo para Smartwatch Wear OS (Android) e Watch OS (Apple)](https://wearinvest.com.br)
