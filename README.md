@@ -9,15 +9,16 @@ Olá, eu sou o Diego, moro em Curitiba - PR, sou formado em bacharelado em siste
 
 ## 💻 Projetos
 * [Condonice (gestão de condomínio) - Android, IOS e Web](https://play.google.com/store/apps/details?id=br.com.condonice&hl=pt_BR&gl=US)
-* [Barbearia Guarani (agendamentos para barbearia) - Android e IOS](https://play.google.com/store/apps/details?id=br.com.barberapp.guarani&hl=es_SV)
+* [Aplicativos para Barbearias, Studios, Lava car - Android](https://play.google.com/store/apps/developer?id=Diego+Porfirio&hl=es_SV)
+* [Aplicativos para Barbearias, Studios, Lava car - IOS](https://apps.apple.com/br/developer/diego-alves-porfirio/id1482859070)
 * [Leve Pra Vida (saúde e qualidade de vida) - Android e Wordpress](https://play.google.com/store/apps/details?id=br.com.levepravida)
 * [Cotação Ibovespa - Plugin do Chrome](https://chromewebstore.google.com/detail/cota%C3%A7%C3%A3o-ibovespa/jgjhgngkklajpchggkciipmhlgmhfnij?hl=pt-BR)
 * [Bitcoin Mayer Multiple - Plugin do Chrome](https://chromewebstore.google.com/detail/bitcoin-mayer-multiple/mglcapocffmnnjmpfodchhhfjjkhmjck?hl=pt-BR)
-* [WearInvest - Aplicativo para Smartwatch Wear OS](https://wearinvest.com.br)
+* [WearInvest - Aplicativo para Smartwatch Wear OS (Android) e Watch OS (Apple)](https://wearinvest.com.br)
   
 ## ⚡ Tecnologias
 - Desenvolvedor Front-end: **HTML, Javascript, CSS, Bootstrap, Primefaces, IONIC, Angular**
-- Desenvolvedor Backend: **Java, Flutter, Swift, Android, Wear OS**
+- Desenvolvedor Backend: **Java, Kotlin, Flutter, Swift, Android, Wear OS, Node.js**
 - Spring boot, Spring MVC, Maven, Hibernate, Jpa, RESTful Web Service, Jasper Reports, JWT, GIT, SVN, TDD, Trello
 - Banco de dados: **MySQL, SQL Server**
 - Testes: **JUnit**
