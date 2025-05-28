@@ -16,6 +16,7 @@ Olá, eu sou o Diego, moro em Curitiba - PR, sou formado em bacharelado em siste
 * [Cotação Ibovespa - Plugin do Chrome](https://chromewebstore.google.com/detail/cota%C3%A7%C3%A3o-ibovespa/jgjhgngkklajpchggkciipmhlgmhfnij?hl=pt-BR)
 * [Bitcoin Mayer Multiple - Plugin do Chrome](https://chromewebstore.google.com/detail/bitcoin-mayer-multiple/mglcapocffmnnjmpfodchhhfjjkhmjck?hl=pt-BR)
 * [WearInvest - Aplicativo para Smartwatch Wear OS (Android) e Watch OS (Apple)](https://wearinvest.com.br)
+* [GTD WEB - Sistema para controle de tarefas com base na metodologia GTD](https://gtdweb.com.br/)
   
 ## ⚡ Tecnologias
 - Desenvolvedor Front-end: **HTML, Javascript, CSS, Bootstrap, Primefaces, IONIC, Angular**
