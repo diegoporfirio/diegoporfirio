@@ -11,7 +11,7 @@ Olá, eu sou o Diego, moro em Curitiba - PR, sou formado em bacharelado em siste
 
 * [Aplicativos para Barbearias, Studios, Lava car - Android](https://play.google.com/store/apps/developer?id=Diego+Porfirio&hl=es_SV)
 * [Aplicativos para Barbearias, Studios, Lava car - IOS](https://apps.apple.com/br/developer/diego-alves-porfirio/id1482859070?see-all=i-phone-apps)
-* [Leve Pra Vida (saúde e qualidade de vida) - Android e Wordpress] {Removido da Loja Link Apresentação}(https://docs.google.com/presentation/d/1iOQYer2xE_i0Oqii4YtHr_UgS6A3nIYo/edit?usp=sharing&ouid=111575118783016073453&rtpof=true&sd=true)
+* [Leve Pra Vida (saúde e qualidade de vida) - Android e Wordpress * Removido da loja, pois descontinuou o site, link da apresentação]([https://apps.apple.com/br/developer/diego-alves-porfirio/id1482859070?see-all=i-phone-apps](https://docs.google.com/presentation/d/1iOQYer2xE_i0Oqii4YtHr_UgS6A3nIYo/edit?usp=sharing&ouid=111575118783016073453&rtpof=true&sd=true))
 * [Condonice (gestão de condomínio) - Android, IOS e Web](https://play.google.com/store/apps/details?id=br.com.condonice&hl=pt_BR&gl=US)
 * [Cotação Ibovespa - Plugin do Chrome](https://chromewebstore.google.com/detail/cota%C3%A7%C3%A3o-ibovespa/jgjhgngkklajpchggkciipmhlgmhfnij?hl=pt-BR)
 * [Bitcoin Mayer Multiple - Plugin do Chrome](https://chromewebstore.google.com/detail/bitcoin-mayer-multiple/mglcapocffmnnjmpfodchhhfjjkhmjck?hl=pt-BR)
