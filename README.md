@@ -12,7 +12,7 @@ Olá, eu sou o Diego, moro em Curitiba - PR, sou formado em bacharelado em siste
 * [Aplicativos para Barbearias, Studios, Lava car - Android](https://play.google.com/store/apps/developer?id=Diego+Porfirio&hl=es_SV)
 * [Aplicativos para Barbearias, Studios, Lava car - IOS](https://apps.apple.com/br/developer/diego-alves-porfirio/id1482859070?see-all=i-phone-apps)
 * **Leve Pra Vida: Aplicativo Android (Saúde e Qualidade de Vida)**
-  * Um aplicativo Android desenvolvido para promover saúde e qualidade de vida, com conteúdo originado de um site WordPress.
+  * Um aplicativo Android desenvolvido para promover saúde e qualidade de vida, com conteúdo originado de um site WordPress via API Json.
   * Nota: O aplicativo foi descontinuado da loja, uma vez que o site associado foi desativado.
   * Veja a apresentação do projeto para conhecer suas características: [Apresentação do App Leve Pra Vida](https://docs.google.com/presentation/d/1iOQYer2xE_i0Oqii4YtHr_UgS6A3nIYo/edit?usp=sharing&ouid=111575118783016073453&rtpof=true&sd=true)
 * [Condonice (gestão de condomínio) - Android, IOS e Web](https://play.google.com/store/apps/details?id=br.com.condonice&hl=pt_BR&gl=US)
