@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-porfirio/)](https://www.linkedin.com/in/diego-porfirio/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.porfirio@gmail.com)](mailto:diego.porfirio@gmail.com)
 
-Olá, eu sou o Diego, moro em Curitiba - PR, sou formado em bacharelado em sistemas de informação pela PUC/PR. Eu amo desenvolver, fazer análise de sistemas e sempre estou aberto para aprender novas tecnologias.
+Olá, eu sou o Diego, moro em Curitiba - PR, sou formado em bacharelado em sistemas de informação pela PUC/PR em 2010. Eu amo desenvolver, fazer análise de sistemas e sempre estou aberto para aprender novas tecnologias.
 
 ## 💻 Projetos
 
@@ -24,12 +24,13 @@ Olá, eu sou o Diego, moro em Curitiba - PR, sou formado em bacharelado em siste
 * [Sistema Gestão de Eventos (PWA) com Itegração ao Mercado Pago](https://evento-costela.web.app/)
   
 ## ⚡ Tecnologias
+- Mais de 20 anos de experiência desenvolvendo em Java
 - Desenvolvedor Front-end: **HTML, Javascript, CSS, Bootstrap, Primefaces, IONIC, Angular**
-- Desenvolvedor Backend: **Java, Kotlin, Flutter, Swift, Android, Wear OS, Node.js**
+- Desenvolvedor Backend: **Java, Kotlin, Flutter, Swift, Android, Wear OS, Watch OS, Node.js**
 - Spring boot, Spring MVC, Maven, Hibernate, Jpa, RESTful Web Service, Jasper Reports, JWT, GIT, SVN, TDD, Trello
 - Banco de dados: **MySQL, SQL Server**
 - Testes: **JUnit**
-- Metódologias Ágeis
+- Metodologias Ágeis
 
 ## :books: Livros
 
